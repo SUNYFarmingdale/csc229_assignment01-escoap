@@ -17,7 +17,7 @@ public class NewClass {
         System.out.println(crs.getName());
         System.out.print("Code: ");
         System.out.println(crs.getCode());
-        System.out.print("ID: ");
+        System.out.print("ID: "); 
         System.out.println(crs.getID());
     }
     
